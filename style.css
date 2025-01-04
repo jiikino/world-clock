@@ -10,7 +10,7 @@ body {
     margin: 0 auto;  
     padding: 40px;
     background-color: white;
-    box-shadow: 10px 10px 20px 5px rgba(0, 0, 0, 0.3);
+    box-shadow: 6px 7px 29px 0px rgba(100, 100, 111, 0.3);
     
 }
 
@@ -44,6 +44,10 @@ h2 {
 
 
 
+}
+
+.city:last-child {
+    border: none;
 }
 
 .time {
